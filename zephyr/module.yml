@@ -1,0 +1,4 @@
+name: nrfx
+build:
+  cmake: zephyr
+  kconfig: zephyr/Kconfig
